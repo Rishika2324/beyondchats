@@ -1,0 +1,15 @@
+{
+  "name": "beyondchats-node-updater",
+  "version": "1.0.0",
+  "description": "Fetch articles from Laravel API, search web, call LLM and update articles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
+}

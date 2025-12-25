@@ -1,0 +1,8 @@
+body { font-family: system-ui, Arial; margin: 0; padding: 18px; background: #f7fafc; }
+.container { max-width: 980px; margin: 0 auto; }
+.grid { display: grid; grid-template-columns: 1fr; gap: 18px; }
+.card { background: white; padding: 16px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.card h2 { margin: 0 0 8px 0 }
+.meta { color: #6b7280; font-size: 0.9rem; margin-bottom: 12px }
+.body { line-height: 1.6 }
+.refs { margin-top: 12px; border-top: 1px solid #e6e6e6; padding-top: 10px }
